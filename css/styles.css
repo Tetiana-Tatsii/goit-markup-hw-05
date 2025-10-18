@@ -518,7 +518,7 @@ border-top: none;
 }
 
 .footer-social-wrapper {
-    
+  margin-right: 80px;  
 }
 
 .social-text{
@@ -600,13 +600,13 @@ border-top: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    margin: 0;
     margin-bottom: 16px;
 }
 
 .subscribe-form {
     display: flex;
     gap: 24px;
+    align-items: center;
 }
 
 .subscribe-input {
@@ -665,7 +665,7 @@ border-top: none;
 
 .icon-plane {
     margin-left: 16px;
-    fill: #ffffff;
+    fill: #ffffff;   
 }
 .backdrop{
     position: fixed;
