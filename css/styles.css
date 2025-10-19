@@ -867,7 +867,6 @@ border-top: none;
 }
 
 .modal-checkbox-label {
-    display: flex;
     align-items: center;
     gap: 8px;
 
@@ -875,10 +874,9 @@ border-top: none;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    user-select: none;
 }
 
-span.modal-checkbox-icon {
+.modal-checkbox-icon {
     display: inline-flex;
     width: 16px;
     height: 16px;
