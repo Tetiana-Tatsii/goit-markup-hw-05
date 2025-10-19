@@ -878,7 +878,7 @@ border-top: none;
     user-select: none;
 }
 
-.modal-checkbox-icon {
+span.modal-checkbox-icon {
     display: inline-flex;
     width: 16px;
     height: 16px;
