@@ -558,7 +558,6 @@ border-top: none;
     font-weight: 400;
     font-size: 16px;
     
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
@@ -588,6 +587,7 @@ border-top: none;
     fill: #f4f4fd;
 }
 
+
 .footer-subscribe {
     display: flex;
     flex-direction: column;
@@ -600,7 +600,6 @@ border-top: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    margin-bottom: 16px;
 }
 
 .subscribe-form {
@@ -635,8 +634,9 @@ border-top: none;
 
 .subscribe-btn {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+    
     gap: 16px;
     min-width: 165px;
     height: 40px;
@@ -667,6 +667,8 @@ border-top: none;
     margin-left: 16px;
     fill: #ffffff;   
 }
+
+
 .backdrop{
     position: fixed;
     top: 0;
