@@ -587,13 +587,6 @@ border-top: none;
     fill: #f4f4fd;
 }
 
-
-.footer-subscribe {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-
 .subscribe-title {
     font-weight: 500;
     font-size: 16px;
