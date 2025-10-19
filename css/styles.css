@@ -769,8 +769,12 @@ border-top: none;
 }
 
 
-.modal-form-field {
+.modal-message-field {
     margin-bottom: 16px;
+}
+
+.modal-form-field {
+    margin-bottom: 8px;
 }
 
 .modal-form-label {
@@ -880,7 +884,6 @@ border-top: none;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
-    display: flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
