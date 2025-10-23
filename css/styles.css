@@ -166,10 +166,6 @@ margin-left: auto;
     background-size: cover;
 }
 
-.hero-content {
-   
-}
-
 .hero-title {
     display: block;
     margin: 0 auto;
@@ -247,9 +243,7 @@ background-color: #404bbf;
     background-color: #f4f4fd;
     margin-bottom: 8px;
 }
-.icon-antenna{
-    background-color: #8E8F99;
-}
+
 .feature-title {
     text-align: left;
     margin-bottom: 8px;
@@ -341,10 +335,6 @@ background: #fff;}
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-}
-
-.social-list{
-    
 }
 
 .social-item {
@@ -631,7 +621,7 @@ border-top: none;
     justify-content: center;
     align-items: center;
     
-    gap: 16px;
+    
     min-width: 165px;
     height: 40px;
     font-family: "Roboto", sans-serif;
@@ -873,6 +863,7 @@ border-top: none;
     display: inline-flex;
     width: 16px;
     height: 16px;
+    margin-right: 8px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
     align-items: center;
